@@ -1,5 +1,7 @@
 # Google Clone
-## Live [Link](https://google-clone-ras1k.netlify.app/)
+
+## Links
+* [Live Link](https://google-clone-ras1k.netlify.app/)
 
 ## Technologies Used:
 * React/Vite
